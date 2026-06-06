@@ -4,9 +4,13 @@
 >
 > A macOS trash can that runs from your cursor, talks back when caught, and actually eats your files. Two cans — one works in the menu bar, one causes trouble on your desktop.
 
+[![Website](https://img.shields.io/badge/🌐_网站-Live-5eead4?style=for-the-badge)](https://wintlin776.github.io/running-trash/)
+[![Download](https://img.shields.io/badge/⬇_下载_DMG-393_KB-46e0a8?style=for-the-badge)](https://wintlin776.github.io/running-trash/downloads/RunningTrash.dmg)
+
 ![macOS](https://img.shields.io/badge/macOS-13%2B-black?logo=apple)
 ![Apple Silicon](https://img.shields.io/badge/arch-arm64-blue)
 ![Swift](https://img.shields.io/badge/Swift-AppKit-orange?logo=swift)
+![License](https://img.shields.io/badge/made_with-Swift_+_AppKit-orange)
 
 ---
 
